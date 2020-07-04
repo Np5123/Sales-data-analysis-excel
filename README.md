@@ -1,2 +1,2 @@
 # Sales-data-analysis-excel
--Simple sales data analysis using Excel Pivot table
+- Simple sales data analysis using Excel Pivot table
